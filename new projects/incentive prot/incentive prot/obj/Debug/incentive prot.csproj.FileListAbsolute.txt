@@ -1,0 +1,93 @@
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\ApplicationInsights.config
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Views\Home\Index.cshtml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Views\Shared\_Layout.cshtml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\incentive prot.dll.config
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\incentive prot.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\incentive prot.pdb
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\csc.exe
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\csc.exe.config
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\csc.rsp
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\csi.exe
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\csi.exe.config
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\csi.rsp
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.AppContext.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Console.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.IO.Compression.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.Claims.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.ValueTuple.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\vbc.exe
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\vbc.exe.config
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\vbc.rsp
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\VBCSCompiler.exe
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Antlr3.Runtime.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.Web.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Newtonsoft.Json.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Helpers.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Mvc.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Optimization.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Razor.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.WebPages.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.WebPages.Razor.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\WebGrease.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.Web.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Newtonsoft.Json.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Helpers.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Mvc.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Razor.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.WebPages.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.WebPages.Razor.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\System.Web.Optimization.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Antlr3.Runtime.pdb
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\obj\Debug\incentive prot.csprojAssemblyReference.cache
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\obj\Debug\incentive prot.csproj.CoreCompileInputs.cache
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\obj\Debug\incentive prot.csproj.CopyComplete
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\obj\Debug\incentive prot.dll
+C:\Users\mandy\Source\Repos\incentive prot\incentive prot\obj\Debug\incentive prot.pdb

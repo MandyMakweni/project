@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  incentiveprot:
+    image: ${DOCKER_REGISTRY}incentiveprot
+    build:
+      context: .\incentive prot
+      dockerfile: Dockerfile

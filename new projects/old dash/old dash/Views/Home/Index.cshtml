@@ -1,0 +1,343 @@
+﻿<h1 style="color:#777;">Overview</h1>
+<hr />
+
+@*general sentiment*@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3" style="padding-right: 0px;">
+            <div class="btn-group btn-group-justified">
+                <div class="selector">
+                    <br />
+                    <header style="margin-left: 10px;">General Sentiment</header>
+                    <span class="select">&#8943;</span>
+                    <p class="instruction">Please click on the tab for more information</p>
+                    <br />
+                    <br />
+
+                    <div class="containers">
+                        @*list*@
+                        <div class="lists" style="float: left;margin-left: 223px;">
+                            <ul>
+                                <li style="color:#df001a;font-size: xx-large;"><p style="color:#777;font-size: 15px;font-weight:900;">1,700 positive</p></li>
+                                <li style="color:#ffbf00;font-size: xx-large;"><p style="color:#777;font-size: 15px;margin-top: -27px;font-weight:900;">802 neutral</p></li>
+                                <li style="color:#6eab24;font-size: xx-large;"><p style="color:#777;font-size: 15px;margin-top: -27px;font-weight:900;">785 negative</p></li>
+                            </ul>
+                            <p style="color:#777">* Based on 768 reviews</p>
+                        </div>
+                        @*/list*@
+
+                        <div class="donut-chart-block block" style="margin-top: -8px;">
+                            <div class="donut-chart">
+                                <div id="part1" class="portion-block"><div class="circle"></div></div>
+                                <div id="part2" class="portion-block"><div class="circle"></div></div>
+                                <div id="part3" class="portion-block"><div class="circle"></div></div>
+                                <p class="center" style="font-weight:900;">3,287</p>
+                                <br />
+                                <p class="center2" style="color:#777;">Comments</p>
+                            </div> @*/donut chart*@
+                        </div> @*/donut block*@
+                    </div> @*/container*@
+                </div> @*/selector*@
+            </div> @*/btn group*@
+        </div> @*/ col*@
+
+        @*/general sentiment*@
+
+        @*emotionssentiment*@
+        <div class="col-sm-6" style="padding-right: 0px;">
+            <div class="btn-group btn-group-justified">
+                <div class="selector">
+                    <br />
+                    <header style="margin-left: 10px;">Emotions & Sentiment</header>
+                    <span class="select">&#8943;</span>
+                    <p class="instruction">Summary of emotion score,click on each emotion for more information</p>
+                    <div class="row">
+                        <div class="right">
+                            <div class="col-sm-2">
+                                <img class="emoji" src="~/img/joy.png" />
+                                <br />
+                                <br />
+                                <span style="margin-left:34px;color:#ffbf00;font-weight:900;">JOY</span>
+                                <br />
+                                <span class="numbers" style="margin-left: 30px;">49,2</span>
+                            </div> @*/col*@
+
+                            <div class="col-sm-2">
+                                <img class="emoji" src="~/img/sadness.png" />
+                                <br />
+                                <br />
+                                <span style="margin-left:20px;color:#1079bf;font-weight:900;">SADNESS</span>
+                                <br />
+                                <span class="numbers" style="margin-left: 30px;">22,6</span>
+                            </div> @*/col*@
+
+                            <div class="col-sm-2">
+                                <img class="emoji" src="~/img/fear.png" />
+                                <br />
+                                <br />
+                                <span style="margin-left:30px;color:#000000;font-weight:900">FEAR</span>
+                                <br />
+                                <span class="numbers" style="margin-left: 30px;">44,8</span>
+                            </div> @*/col*@
+
+                            <div class="col-sm-2">
+                                <img class="emoji" src="~/img/disgust.png" />
+                                <br />
+                                <br />
+                                <span style="margin-left:22px;color:#3bb54c;font-weight:900;">DISGUST</span>
+                                <br />
+                                <span class="numbers" style="margin-left: 30px;">19,8</span>
+                            </div> @*/col*@
+
+                            <div class="col-sm-2">
+                                <img class="emoji" src="~/img/anger.png" />
+                                <br />
+                                <br />
+                                <span style="margin-left: 30px;color:#df001a;font-weight:900">ANGER</span>
+                                <br />
+                                <span class="numbers" style="margin-left: 30px;">32,7</span>
+                                <br />
+                                <br />
+                            </div> @*/col*@
+                        </div> @*/right*@
+                    </div> @*/row*@
+                </div> @*sector*@
+            </div>  @*btn group*@
+        </div> @*/col*@
+
+        @*/emotions sentiment*@
+
+        @*emotions overall*@
+        <div class="col-sm-3" style="padding-right: 0px;">
+            <div class="btn-group btn-group-justified">
+                <div class="selector">
+                    <br />
+                    <header style="margin-left: 10px;">Emotions Overall</header>
+                    <span class="select">&#8943;</span>
+                    <br />
+
+                    <div class="hold">
+                        <div class="progressbar" id="progressbar">
+                            <span class="catagory">
+                                Sadness
+                            </span>
+
+                            <span class="rate">
+                                50%
+                            </span>
+                            <div></div>
+                        </div> @*/pro*@
+                        <br />
+
+                        <div class="progressbar2" id="progressbar">
+                            <span class="catagory">
+                                Fear
+                            </span>
+
+                            <span class="rate">
+                                59%
+                            </span>
+                            <div></div>
+
+                        </div> @*/pro2*@
+                        <br />
+
+                        <div class="progressbar3" id="progressbar">
+                            <span class="catagory">
+                                Joy
+                            </span>
+
+                            <span class="rate">
+                                78%
+                            </span>
+                            <div></div>
+
+                        </div> @*/pro3*@
+                        <br />
+
+                        <div class="progressbar4" id="progressbar">
+                            <span class="catagory">
+                                Disgust
+                            </span>
+
+                            <span class="rate">
+                                50%
+                            </span>
+                            <div></div>
+
+                        </div> @*/pro4*@
+                        <br />
+
+                        <div class="progressbar5" id="progressbar">
+                            <span class="catagory">
+                                Anger
+                            </span>
+
+                            <span class="rate">
+                                5%
+                            </span>
+                            <div></div>
+                        </div> @*/pro5*@
+
+                        <br />
+                    </div> @*/hold*@
+
+                    @*/hold*@
+                    <p style="text-align:center;">Average</p>
+                    <br />
+                    <br />
+
+                </div> @*/selector*@
+            </div> @*/btn*@
+        </div> @*/col*@
+    </div>@*row*@
+</div> @*/container*@
+
+@*/emotions overall*@
+
+<br />
+<br />
+@*keywords*@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3" style="padding-right: 0px;">
+            <div class="btn-group btn-group-justified">
+                <div class="selector">
+                    <br />
+                    <header style="margin-left: 10px;">Keywords</header>
+                    <span class="select">&#8943;</span>
+                    <p class="instruction">Please click on the tab for more information</p>
+                    <img class="key" src="~/img/keyword.png" />
+                    <br />
+
+                </div> @*/selector*@
+            </div> @*/btn group*@
+        </div> @*/col*@
+        @*/keywords*@
+
+        @*semantic role*@
+        <div class="col-sm-9">
+            <div class="btn-group btn-group-justified">
+                <div class="selector">
+                    <br />
+
+                    <header style="margin-left: 10px;">Semantic Role</header>
+                    <span class="select">&#8943;</span>
+                    <p class="instruction">Please click on the tab for more information</p>
+                    <div class="row">
+                        <div1 class="col-sm-4">
+                            <div class="skills">
+                                <div class="charts">
+                                    <div class="chart chart--dev">
+                                        <span class="chart__title">Top subject - text</span>
+                                        <ul class="chart--horiz" style="list-style-type:none;">
+                                            <li class="chart__bar" style="width: 40%;">
+                                                <span class="chart__label">
+                                                    Old Mutual
+                                                </span>
+                                            </li>
+
+                                            <li class="chart__bar" style="width: 30%;">
+                                                <span class="chart__label">
+                                                    better products
+                                                </span>
+                                            </li>
+
+                                            <li class="chart__bar" style="width: 20%;">
+                                                <span class="chart__label">
+                                                    our customers needs
+                                                </span>
+                                            </li>
+                                        </ul>
+
+                                    </div> @*chart dev*@
+                                </div> @*/charts*@
+                            </div> @*/skills*@
+                            @*chart*@
+
+                        </div1>
+
+                        <div1 class="col-sm-4">
+                            <div class="skills">
+                                <div class="charts">
+                                    <div class="chart chart--dev">
+                                        <span class="chart__title">Top subject - text</span>
+                                        <ul class="chart--horiz" style="list-style-type:none;">
+                                            <li class="chart__bar2" style="width: 65%;">
+                                                <span class="chart__label2">
+                                                    do
+                                                </span>
+                                            </li>
+
+                                            <li class="chart__bar2" style="width: 47%;">
+                                                <span class="chart__label2">
+                                                    need
+                                                </span>
+                                            </li>
+
+                                            <li class="chart__bar2" style="width: 30%;">
+                                                <span class="chart__label2">
+                                                    own
+                                                </span>
+                                            </li>
+                                        </ul>
+
+                                    </div> @*/chart dev*@
+                                </div> @*/charts*@
+                                @*chart*@
+                            </div>
+                            @*skills*@
+                        </div1> @*/div1*@
+
+                        <div1 class="col-sm-4">
+                            <div class="skills">
+                                <div class="charts">
+                                    <div class="chart chart--dev">
+                                        <span class="chart__title">Top subject - text</span>
+                                        <ul class="chart--horiz" style="list-style-type:none;">
+                                            <li class="chart__bar3" style="width: 50%;">
+                                                <span class="chart__label3">
+                                                    future
+                                                </span>
+                                            </li>
+
+                                            <li class="chart__bar3" style="width: 35%;">
+                                                <span class="chart__label3">
+                                                    past
+                                                </span>
+                                            </li>
+
+                                            <li class="chart__bar3" style="width: 33%;">
+                                                <span class="chart__label3">
+                                                    present
+                                                </span>
+                                            </li>
+                                        </ul>
+                                    </div> @*/chart dev*@
+
+                                </div> @*chart*@
+                            </div> @*skills*@
+                        </div1> @*/div1*@
+                        @*close*@
+                    </div>  @*row*@
+                </div>
+                @*selector*@
+            </div>  @*btn*@
+        </div> @*/col*@
+    </div> @*/row*@
+    <br />
+    <br />
+
+</div> @*/container*@
+
+@*/sentiment role*@
+<br />
+<br />
+
+@*buttons*@
+<div class="buttons" style="margin-left: 20px;">
+    <a href="https://docs.google.com/spreadsheets/d/14tixrOiB30osIeP81XVQnIXrbmD2JhC4VKU1OGFlv1A/edit#gid=1682837905"><button type="button" class="btn btn-primarys btn-lg">Export to Excel</button></a>
+    <a href="http://localhost:51448/Home/Index">
+        <button type="button" class="btn btn-primarys btn-lg">Export to powerPoint</button>
+    </a>
+</div>

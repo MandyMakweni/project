@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <br />
+    <br />
+    <nav class="navbar-fixed-top navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+
+                <div class="navbar-brand">
+                    <a id="menu-toggle" href="#" class="glyphicon glyphicon-align-justify btn-menu toggle" style="color: #686d76;">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                    <a href="#"></a>
+                </div>  @*/navbar brand*@
+                <a class="navbar-brand" href="#" style="font-size: 13px;font-weight: 900;">OLD MUTUAL SENTIMENT ANALYSIS TOOL POWERED BY PURE SURVEY (PTY)Ltd</a>
+            </div> @*/navbar header*@
+
+            <ul class="nav navbar-nav navbar-right">
+                <div class="round round-lg grey">
+                    <span class="glyphicon glyphicon-user"></span>
+                </div>
+                <li style="top: -41px;margin-left: 34px;"><a>Log Out</a></li>
+
+                @*<li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>*@
+            </ul>
+        </div>
+    </nav>
+    <!-- /.navbar -->
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>*@
+
+    <div class="container body-content">
+        @RenderBody()
+        @*<hr />*@
+
+        @*<footer style="background-color:#ffffff;">
+                <p> Pure Survey (PTY)Ltd &copy; 2006 to 2018 Rights reserved</p>
+            </footer>*@
+
+        <div class="navbar navbar-inverse navbar-fixed-bottom" style="background-color:#ffffff;border-color: #ffffff;">
+            <div class="container">
+                <div class="navbar-header">
+                    @*<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>*@
+                    @*@Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
+                </div>
+                <div class="navbar-collapse collapse">
+                    <p style="color:gray;"> Pure Survey (PTY) Ltd &copy; 2006 to 2018 Rights reserved</p>
+                    @*<ul class="nav navbar-nav">
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        </ul>*@
+                </div> @*/navbar-collapse*@
+            </div> @*/container*@
+        </div> @*/navbar navbar-inverse*@
+    </div> @*/body-content*@
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
