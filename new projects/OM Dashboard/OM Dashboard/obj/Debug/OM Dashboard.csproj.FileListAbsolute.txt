@@ -1,0 +1,166 @@
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\ApplicationInsights.config
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\csc.exe
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\vbc.exe
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\VBCSCompiler.exe
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\OM Dashboard.dll.config
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\OM Dashboard.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\OM Dashboard.pdb
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Antlr3.Runtime.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.SqlServer.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.Web.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.ApplicationInsights.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Newtonsoft.Json.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Owin.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Helpers.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Mvc.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Optimization.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Razor.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Deployment.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Razor.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\WebGrease.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.Web.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.ApplicationInsights.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Helpers.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Mvc.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Optimization.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Razor.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Deployment.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Razor.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Antlr3.Runtime.pdb
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Newtonsoft.Json.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.SqlServer.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.dll
+c:\users\mandy\documents\visual studio 2015\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.pdb
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\ApplicationInsights.config
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\csc.exe
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\System.Collections.Immutable.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\vbc.exe
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\VBCSCompiler.exe
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\roslyn\VBCSCompiler.exe.config
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\OM Dashboard.dll.config
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\OM Dashboard.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\OM Dashboard.pdb
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Antlr3.Runtime.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.SqlServer.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.Agent.Intercept.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.DependencyCollector.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.Web.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.WindowsServer.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.ApplicationInsights.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Core.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Cookies.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Facebook.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Google.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.OAuth.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Twitter.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Web.Infrastructure.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Newtonsoft.Json.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Owin.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Helpers.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Mvc.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Optimization.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Razor.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Deployment.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Razor.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\WebGrease.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.DependencyCollector.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.Web.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AI.WindowsServer.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.ApplicationInsights.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Helpers.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Mvc.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Optimization.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.Razor.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Deployment.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\System.Web.WebPages.Razor.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Antlr3.Runtime.pdb
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Newtonsoft.Json.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\EntityFramework.SqlServer.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Core.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Facebook.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Cookies.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.OAuth.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Google.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.Twitter.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.csprojResolveAssemblyReference.cache
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.dll
+R:\Clients\Mandy\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.pdb
+C:\Users\mandy\Documents\Visual Studio 2015\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.csprojAssemblyReference.cache
+C:\Users\mandy\Documents\Visual Studio 2015\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\mandy\Documents\Visual Studio 2015\Projects\OM Dashboard\OM Dashboard\obj\Debug\OM Dashboard.csproj.CopyComplete
